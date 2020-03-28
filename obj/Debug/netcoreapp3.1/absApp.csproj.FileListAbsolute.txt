@@ -11,3 +11,9 @@ C:\Users\sibiv\Desktop\absApp\obj\Debug\netcoreapp3.1\absApp.AssemblyInfo.cs
 C:\Users\sibiv\Desktop\absApp\obj\Debug\netcoreapp3.1\absApp.dll
 C:\Users\sibiv\Desktop\absApp\obj\Debug\netcoreapp3.1\absApp.pdb
 C:\Users\sibiv\Desktop\absApp\obj\Debug\netcoreapp3.1\absApp.genruntimeconfig.cache
+C:\Users\sibiv\Desktop\AbstractEx\obj\Debug\netcoreapp3.1\absApp.csprojAssemblyReference.cache
+C:\Users\sibiv\Desktop\AbstractEx\obj\Debug\netcoreapp3.1\absApp.csproj.CoreCompileInputs.cache
+C:\Users\sibiv\Desktop\AbstractEx\obj\Debug\netcoreapp3.1\absApp.AssemblyInfoInputs.cache
+C:\Users\sibiv\Desktop\AbstractEx\obj\Debug\netcoreapp3.1\absApp.AssemblyInfo.cs
+C:\Users\sibiv\Desktop\AbstractEx\obj\Debug\netcoreapp3.1\absApp.dll
+C:\Users\sibiv\Desktop\AbstractEx\obj\Debug\netcoreapp3.1\absApp.pdb

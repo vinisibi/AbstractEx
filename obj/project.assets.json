@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sibiv\\Desktop\\absApp\\absApp.csproj",
+      "projectUniqueName": "C:\\Users\\sibiv\\Desktop\\AbstractEx\\absApp.csproj",
       "projectName": "absApp",
-      "projectPath": "C:\\Users\\sibiv\\Desktop\\absApp\\absApp.csproj",
+      "projectPath": "C:\\Users\\sibiv\\Desktop\\AbstractEx\\absApp.csproj",
       "packagesPath": "C:\\Users\\sibiv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sibiv\\Desktop\\absApp\\obj\\",
+      "outputPath": "C:\\Users\\sibiv\\Desktop\\AbstractEx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
