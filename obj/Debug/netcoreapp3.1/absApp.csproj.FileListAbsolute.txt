@@ -1,0 +1,13 @@
+C:\Users\sibiv\Desktop\absApp\bin\Debug\netcoreapp3.1\absApp.exe
+C:\Users\sibiv\Desktop\absApp\bin\Debug\netcoreapp3.1\absApp.deps.json
+C:\Users\sibiv\Desktop\absApp\bin\Debug\netcoreapp3.1\absApp.runtimeconfig.json
+C:\Users\sibiv\Desktop\absApp\bin\Debug\netcoreapp3.1\absApp.runtimeconfig.dev.json
+C:\Users\sibiv\Desktop\absApp\bin\Debug\netcoreapp3.1\absApp.dll
+C:\Users\sibiv\Desktop\absApp\bin\Debug\netcoreapp3.1\absApp.pdb
+C:\Users\sibiv\Desktop\absApp\obj\Debug\netcoreapp3.1\absApp.csprojAssemblyReference.cache
+C:\Users\sibiv\Desktop\absApp\obj\Debug\netcoreapp3.1\absApp.csproj.CoreCompileInputs.cache
+C:\Users\sibiv\Desktop\absApp\obj\Debug\netcoreapp3.1\absApp.AssemblyInfoInputs.cache
+C:\Users\sibiv\Desktop\absApp\obj\Debug\netcoreapp3.1\absApp.AssemblyInfo.cs
+C:\Users\sibiv\Desktop\absApp\obj\Debug\netcoreapp3.1\absApp.dll
+C:\Users\sibiv\Desktop\absApp\obj\Debug\netcoreapp3.1\absApp.pdb
+C:\Users\sibiv\Desktop\absApp\obj\Debug\netcoreapp3.1\absApp.genruntimeconfig.cache
