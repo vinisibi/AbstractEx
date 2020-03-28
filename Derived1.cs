@@ -13,15 +13,6 @@ namespace SVApp
         public int NoOfHours { get; set; }
 
 
-<<<<<<< HEAD
-
-
-
-
-        
-
-=======
->>>>>>> parent of 20134b7... removed space from Derived1.cs page
         public override decimal GetMonthlySalary()
         {
             return HourlySalary*NoOfHours;
